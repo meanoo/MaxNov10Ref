@@ -1,2 +1,5 @@
 # MaxNov10Ref
-Audio Performance Reflections
+Audio Performance Reflection
+
+
+Abby and I tried to create this eerie New York City street. The whole idea sprouted from this waving 3D model animation I had laying around. We thought it'd be funny if it was like a NYC Crackhead sound just waving at you and slurring gibberish. We hadn't really considerered that there might not be an abundance of recordings of people slurring in the the streets. I created some visuals for the piece. I had MacDougal street in mind - Ben's Pizza and the right and the $4 Shots on the left - beautiful ol' MacDougal. We started out max patch off of Aidan's. We had a metronometer trigger notes, and a lot of reverbs and gigverbs. It gave us this synth wave like noise that we really played with in the performance. Another huge element of the NYC experience is the absolutley overwhelming gust of wind and white noise that floods the streets when a subway train goes by. We emulated this using a clap.wav file, slowing it down, and changing the note it played it with the keyboard. Add soem reverb and distortion and there you go! I thought the perfomance was fun although I do agree that the looping visuals ended up pulling away from the audio experience. 
